@@ -6,10 +6,10 @@ import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Maximo Martinez | Desarrollador Full Stack",
-  description: "Portfolio personal de Maximo Martinez, Desarrollador Full Stack",
-    generator: 'v0.dev'
-}
+  title: "Dashboard Crypto | Cryptera Labs",
+  description: "Panel de control moderno para visualizar precios, balances y estadísticas de criptomonedas en tiempo real.",
+  generator: "v0.dev",
+};
 
 export default function RootLayout({
   children,

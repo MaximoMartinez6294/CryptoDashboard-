@@ -8,7 +8,7 @@ export function Navbar() {
         <div className="flex items-center justify-between">
           {/* Logo and menu */}
           <div className="flex items-center gap-8">
-            <div className="text-xl font-bold text-white tracking-tight">paytech</div>
+            <div className="text-xl font-bold text-white tracking-tight">Cryptera Labs</div>
             <div className="hidden md:flex items-center gap-6 text-sm text-neutral-300">
               <a href="#" className="hover:text-white transition">
                 Dashboard
